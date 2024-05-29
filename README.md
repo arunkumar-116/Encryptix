@@ -35,7 +35,7 @@ titanic_survival_prediction.py: The main Python file containing the code for loa
 ## Usage
 #Clone the repository:
 ```bash
-git clone https://github.com/your-username/titanic-survival-prediction.git
+git clone https://github.com/arunkumar-116/titanic-survival-prediction.git
 
 ```
 ## Navigate to the project directory:
